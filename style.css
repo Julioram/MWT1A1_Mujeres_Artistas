@@ -1,0 +1,55 @@
+.tituloi{
+text-align: center;
+font-family: fantasy;
+}
+
+body{
+	background-image: url(img/fondo.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+.nav ul{
+	list-style: none;
+	background: #663366;
+	text-align: center;
+	padding: 0;
+	margin: 0;
+}
+
+.nav li{
+	display: inline-block;
+}
+
+.nav a{
+	text-decoration: none;
+	color:#fff;
+	width: 100px;
+	display: block;
+	padding: 15px;
+	font-size: 17px;
+	font-family: Helvetica;
+	transition: 0.4s;
+}
+
+div#general1{
+	margin: auto;
+	margin-top: 10px;
+	width: auto;
+	height: auto;
+}
+
+.tamañodd{
+	font-size: 13pt;
+	text-align: justify;
+}
+
+.fondotd{
+	background-color: #EBD2F9;
+}
+
+.fondo1{
+	background-image: url(img/fondo1.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+}
